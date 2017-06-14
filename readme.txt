@@ -6,4 +6,4 @@ Git is free software.
 hello
 你好
 
-22222
+Creating a new branch is quick & simple.
