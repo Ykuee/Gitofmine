@@ -7,4 +7,4 @@ hello
 你好
 
 我还没有提交
-aug
+Creating a new branch is quick AND simple.
